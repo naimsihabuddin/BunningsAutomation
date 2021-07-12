@@ -1,0 +1,1 @@
+pytest --html=./Reports/report_test_03.html testCases/test_03_recent_search.py --browser chrome

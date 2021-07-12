@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<config>
+    <section title="common-info" environment="prod">
+        <url>https://www.bunnings.com.au/</url>
+    </section>
+</config>

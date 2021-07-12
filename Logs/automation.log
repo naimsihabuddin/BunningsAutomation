@@ -1,0 +1,7 @@
+20210712122118: INFO * TEST 03 | Recent Search
+20210712122118: INFO ** SUMMARY: Verifying Recent Search functionality after performing search
+20210712122127: INFO ** Browser title is as expected
+20210712122127: INFO ** Search Result text is displayed as expected
+20210712122127: INFO *** ACTUAL RESULT = [We found 1 result for]
+20210712122132: INFO ** Recent Search is displayed as expected
+20210712122132: INFO *** ACTUAL RESULT = [helicopter]
